@@ -51,6 +51,9 @@ Ik heb een nieuwe **Storage Account** aangemaakt en daarin een **File Share** ge
 
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/6a7420b8-aa3d-4f5f-810e-620d0a219cab" />
 
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/5dd3aa45-210b-4418-81d7-5f9a3422a6d8" />
+
+
 ---
 
 ## 6️⃣ Taken uitgevoerd op de VM
