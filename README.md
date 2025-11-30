@@ -69,7 +69,7 @@ Ik heb een nieuwe **Storage Account** aangemaakt en daarin een **File Share** ge
 
 ## 7️⃣Resource visualizer
 
-- **The following Azure resources are deployed as part of the environment. Each component plays a specific role in the overall VM architecture:
+- The following Azure resources are deployed as part of the environment. Each component plays a specific role in the overall VM architecture:
 
 Virtual Machine (vit9) – Main compute resource.
 
