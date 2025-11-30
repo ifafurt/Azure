@@ -67,14 +67,20 @@ Ik heb een nieuwe **Storage Account** aangemaakt en daarin een **File Share** ge
 
 ---
 
-## 7️⃣ Problemen en oplossingen
+## 7️⃣Resource visualizer
+
+<img width="733" height="684" alt="image" src="https://github.com/user-attachments/assets/784ad0db-8070-4820-8b86-78c448384930" />
+
+---
+
+## 8️⃣ Problemen en oplossingen
 
 - ❌ **RDP-verbinding mislukt:** Poort 3389 was niet open in de Network Security Group.  
   ✅ Oplossing: NSG-regels aangepast om RDP-verkeer toe te staan.
 
 ---
 
-## 8️⃣ Opruimen van resources
+## 9️⃣ Opruimen van resources
 
 Na afronding van de opdracht heb ik alle resources verwijderd (VM, resourcegroep, storage account) om extra kosten te voorkomen.
 
