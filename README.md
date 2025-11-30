@@ -69,6 +69,24 @@ Ik heb een nieuwe **Storage Account** aangemaakt en daarin een **File Share** ge
 
 ## 7️⃣Resource visualizer
 
+- **The following Azure resources are deployed as part of the environment. Each component plays a specific role in the overall VM architecture:
+
+Virtual Machine (vit9) – Main compute resource.
+
+OS Disk – Stores the VM’s operating system.
+
+Network Interface – Connects the VM to the VNet, NSG, and Public IP.
+
+Virtual Network – Provides private network connectivity.
+
+Network Security Group – Controls inbound/outbound traffic.
+
+Public IP Address – Enables external access to the VM.
+
+Storage Account – Used for file storage and diagnostics.
+
+Recovery Services Vault – Provides backup and restore capabilities.
+
 <img width="733" height="684" alt="image" src="https://github.com/user-attachments/assets/784ad0db-8070-4820-8b86-78c448384930" />
 
 ---
